@@ -1,6 +1,6 @@
 <h1 align="center">Meu Mercado Libre</h1>
 
-<p align="center">Divertido projeto feito para praticar a conecção com API de banco de dados externa com Java Script.<br> Neste e-commerce irá ser usada a API disponililizada pelo mercado livre <a href="https://celke.com.br/artigo/tabela-de-cores-html-nome-hexadecimal-rgb" target="_blank">Hexadecimais</a> </p>
+<p align="center">Divertido projeto feito para praticar a conecção com API de banco de dados externa com Java Script.<br> Neste e-commerce irá ser usada a API disponililizada pelo mercado livre </p>
 
 <h3 align="center">Bibliotecas Utilizadas</h3>
 <p align="center">
